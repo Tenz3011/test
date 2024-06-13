@@ -20,7 +20,7 @@ h1{
     color: white;
     font-family: "cute Font";
     font-size: 70px;
-    text-shadow: -1px 2px 4px #e572f6;
+    text-shadow: -1px 2px 4px #eb77a5;
 }
 
 .text{
@@ -82,7 +82,7 @@ button{
 @media screen and (max-width: 600px){
     h1{
         font-size: 36px;
-        text-shadow: -1px 1px 2px #e572f6;
+        text-shadow: -1px 1px 2px #eb77a5;
     }
 
     .text{
