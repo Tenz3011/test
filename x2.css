@@ -13,7 +13,7 @@
 }
 body{
     background-color: black;
-    min-height: 130vh;
+    min-height: 100vh;
 }
 
 h1{
@@ -81,7 +81,7 @@ button{
 
 @media screen and (max-width: 600px){
     h1{
-        font-size: 30px;
+        font-size: 26px;
     }
 
     .text{
